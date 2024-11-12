@@ -77,7 +77,7 @@
 
 <table align="center">
   <tr>
-    <a href="">oxorudo의 포트폴리오 정리 문서</a>
+    <a href="https://relic-dry-f1e.notion.site/oxorudo-13c07aa63c5e8091bdcdeb7f4fbcaa15">oxorudo의 포트폴리오 정리 문서</a>
   </tr>
 </table>
 
