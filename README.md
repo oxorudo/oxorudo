@@ -2,7 +2,7 @@
 
 # 👋 `안녕하세요! 배움이 즐거운 oxorudo 입니다.`
 
-🇰🇷 in South Korea
+`🇰🇷 in South Korea`
 
 새로운 것은 항상 저를 매료시킵니다. 🌱  
 
