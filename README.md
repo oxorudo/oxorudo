@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello&fontSize=90)
 
-# 👋 `안녕하세요! 배움이 즐거운 oxorudo 입니다.`
+# 👋 안녕하세요! 배움이 즐거운 oxorudo 입니다.
 
 `🇰🇷 in South Korea`
 
