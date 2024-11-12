@@ -76,12 +76,9 @@
 ## 📄 Projects
 <table align="center">
   <tr>
-### [Project 2 Name](#)
-**Description**: [Brief description]  
-**Tech Stack**: [Technologies used]  
-**Highlights**:  
-- [Key contributions or features]
-- [Achievements]
+- **프로젝트 이름 1**: [간단한 설명 추가]
+- **프로젝트 이름 2**: [간단한 설명 추가]
+- **프로젝트 이름 3**: [간단한 설명 추가]
   </tr>
 </table>
 
