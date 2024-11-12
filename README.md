@@ -15,7 +15,7 @@
 ## 📚 Currently Learning
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6FF0?style=flat-square&logo=deep-learning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-FF6FF0?style=flat-square&logo=deep-learning&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD800?style=flat-square&logo=hugging-face&logoColor=black"/>
