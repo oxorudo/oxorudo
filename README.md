@@ -69,15 +69,9 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="mailto:gjtjqkr5880@gmail.com">
+      <a href="mailto:xorud755@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/><br>
         Gmail
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/@mane588">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/><br>
-        YouTube
       </a>
     </td>
   </tr>
@@ -88,41 +82,26 @@
 ## 📄 Blogs
 <table align="center">
   <tr>
-    <th>Data</th>
-    <th>Unreal Engine</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://mane-datalab.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/><br>
-        Mane Data Lab
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://online-unreal.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/><br>
-        Online Unreal
-      </a>
-    </td>
+    
   </tr>
 </table>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/online5880/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=online5880&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
+  <a href="https://github.com/oxorudo/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxorudo&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
   </a>    
-  <a href="https://github.com/online5880/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=online5880&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="56%" />
+  <a href="https://github.com/oxorudo/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=oxorudo&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="56%" />
   </a>
-  <a href="https://github.com/online5880/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=online5880&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
+  <a href="https://github.com/oxorudo/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=oxorudo&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fonline5880&count_bg=%235D6657&title_bg=%23555555&icon=data&icon_color=%23E7E7E7&title=visitor&edge_flat=false"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foxorudo&count_bg=%235D6657&title_bg=%23555555&icon=data&icon_color=%23E7E7E7&title=visitor&edge_flat=false"/>
   </a>
 </p>
