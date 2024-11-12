@@ -69,7 +69,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="mailto:xorud755@gmail.com">
+      <a href="xorud755@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/><br>
         Gmail
       </a>
