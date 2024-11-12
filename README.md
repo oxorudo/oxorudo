@@ -74,11 +74,40 @@
 ---
 
 ## 📄 Projects
+
 <table align="center">
   <tr>
-- **프로젝트 이름 1**: [간단한 설명 추가]
-- **프로젝트 이름 2**: [간단한 설명 추가]
-- **프로젝트 이름 3**: [간단한 설명 추가]
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Highlights</th>
+  </tr>
+  <tr>
+    <td><a href="#">Project 1 Name</a></td>
+    <td>Brief description of what the project does or its purpose</td>
+    <td>React, Node.js, MongoDB</td>
+    <td>
+      - Implemented key features<br>
+      - Achieved measurable outcomes (e.g., improved performance by X%, increased user engagement by Y%)
+    </td>
+  </tr>
+  <tr>
+    <td><a href="#">Project 2 Name</a></td>
+    <td>Brief description of the project</td>
+    <td>Technologies used</td>
+    <td>
+      - Key contributions or features<br>
+      - Achievements
+    </td>
+  </tr>
+  <tr>
+    <td><a href="#">Project 3 Name</a></td>
+    <td>Another brief project description</td>
+    <td>Technologies used</td>
+    <td>
+      - Key contributions<br>
+      - Notable outcomes
+    </td>
   </tr>
 </table>
 
